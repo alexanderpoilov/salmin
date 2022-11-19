@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/salmin/static/css/main.14e7918f.css",
+    "main.js": "/salmin/static/js/main.3d28391e.js",
+    "static/media/background2560.jpg": "/salmin/static/media/background2560.d0960bef503383d066a0.jpg",
+    "static/media/GentiumBookPlus-Regular.woff": "/salmin/static/media/GentiumBookPlus-Regular.1e09b54bfb1daf36d33e.woff",
+    "static/media/GentiumBookPlus-Regular.woff2": "/salmin/static/media/GentiumBookPlus-Regular.81f070e40e658631f6c0.woff2",
+    "index.html": "/salmin/index.html",
+    "main.14e7918f.css.map": "/salmin/static/css/main.14e7918f.css.map",
+    "main.3d28391e.js.map": "/salmin/static/js/main.3d28391e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e7918f.css",
+    "static/js/main.3d28391e.js"
+  ]
+}
